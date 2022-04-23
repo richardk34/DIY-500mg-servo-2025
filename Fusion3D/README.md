@@ -1,26 +1,17 @@
 # Fusion3D
 Slightly reworked Fusion360 files and STL files for servo parts.
 
-The worm gear was regenerated using the HelicalGearPlus Fusion360 plug-in.
+## Fusion360 Files
+Cybermike_500mg-Servo_assembly - An exported Fusion360 archive file containing the original parts as well as my modifications.  The most interesting components are:
+* Cybermike MotorSupport:1 - this is where most of the changes are
+* Regenerated worm gear - deeper teeth:1 - this is the regenerated worm gear with deeper cut teeth
 
-These settings match the original from maulionc pretty well:
+## PC Board Files
+- EAGLE - Modified PCB files for (hopefully) easier soldering
 
-Setting         | Value
--------         | -----
-Type            | External Gear
-Module          | 0.20 mm
-Helix Angle     | 85.0 deg
-Teeth           | 1
-Gear width      | 3.0mm
-Standard Normal |
-Pressure angle  | 20 deg
-Backlash        | 1.0mm
-Addendum        | 1.6
-Dedendum        | 0.65
+## STL Files
+- Base - Base and top plate files
+- Worm - Regenerated worm gear that seems to mate better with certain resins
+- Gears - Spur and output gears with different bore sizes
+- ProgrammingAdapter - a 3D printable programming adapter using spring loaded pogo pins that mate with the modified PCBs
 
-For a deeper tooth profile that worked better, I used these settings:
-Setting         | Value
--------         | -----
-Backlash        | 0mm
-Addendum        | 1.7
-Dedendum        | 1.25
