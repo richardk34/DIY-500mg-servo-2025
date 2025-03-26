@@ -5,6 +5,12 @@ Forked from a fork of Charles Maulion's 500mg Servo Project on rcgroups.com
 Currently developing a new version of the servo main body to work with my combination of motor and carbon fiber shafts.
 Circuit boards are ordered and were soldered.
 
+The plan is to use cycloidal gears derived from watchmaking standards to reduce the amount of friction that standard involute gears result in. 
+
+More about gears:
+https://www.numericana.com/answer/gears.htm#horology
+http://www.hessmer.org/blog/2012/01/28/cycloidal-gear-builder/
+
 <img src="https://user-images.githubusercontent.com/89079859/152161802-1aa1f0c0-fab4-48b5-bb16-03e7c73a0f11.png" width="20%" height="20%">
 <img src="https://user-images.githubusercontent.com/89079859/152161979-31888126-6917-4d16-af3b-453313ec9731.png" width="20%" height="20%">
 <img src="https://user-images.githubusercontent.com/89079859/152162040-724eb967-de27-4da8-be3b-f3f600c5c816.png" width="20%" height="20%">
