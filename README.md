@@ -12,7 +12,7 @@ https://www.numericana.com/answer/gears.htm#horology
 
 https://www.hessmer.org/gears/CycloidalGearBuilder.html
 
-http://www.hessmer.org/blog/2012/01/28/cycloidal-gear-builder/
+https://hessmer.org/gears/CycloidalGearBuilder.html
 
 <img src="https://user-images.githubusercontent.com/89079859/152161802-1aa1f0c0-fab4-48b5-bb16-03e7c73a0f11.png" width="20%" height="20%">
 <img src="https://user-images.githubusercontent.com/89079859/152161979-31888126-6917-4d16-af3b-453313ec9731.png" width="20%" height="20%">
